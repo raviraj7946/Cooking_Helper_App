@@ -1,6 +1,7 @@
 # Cooking_Helper_App
 What to accomplish:
-A user should be  able to add new recipes to his App.
+1.A user should be  able to add new recipes to his App.
+
 When the user clicks on ‘add recipe', he should be able to add a new recipe on a separate page.
 The user should be able to add a ‘recipe name', a place for the directions to make the recipe, and be able to add a list of ingredients.
 The user should be able to check a checkbox to indicate whether or not he has the ingredient in stock.
